@@ -1,0 +1,13 @@
+# Game settings
+WINDOW_WIDTH = 600
+WINDOW_HEIGHT = 400
+SNAKE_BLOCK = 10
+SNAKE_SPEED = 15
+
+# Colors
+WHITE = (255, 255, 255)
+YELLOW = (255, 255, 102)
+BLACK = (0, 0, 0)
+RED = (213, 50, 80)
+GREEN = (0, 255, 0)
+BLUE = (50, 153, 213)
